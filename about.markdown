@@ -8,7 +8,6 @@ comments: false
 
 <h1 style="text-align: center;"> Melanie Anne Egorin, PHD</h1>
 
-<img src = "assets/img/headshot.png", alt = "Photo of Melanie Anne Egorin by a Door">
 ![Photo of Melanie Anne Egorin by a Door](assets/img/headshot.png)
 
 ## About
