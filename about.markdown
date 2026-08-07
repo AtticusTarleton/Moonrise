@@ -8,7 +8,8 @@ comments: false
 
 <h1 style="text-align: center;"> Melanie Anne Egorin, PHD</h1>
 
-[!Photo of Melanie Anne Egorin by a Door](assets/img/headshot.png)
+<img src = "assets/img/headshot.png", alt = "Photo of Melanie Anne Egorin by a Door">
+![Photo of Melanie Anne Egorin by a Door](assets/img/headshot.png)
 
 ## About
 Melanie Anne Egorin is a professor of practice in public policy at the University of Virginia Frank Batten School of Leadership and Public Policy. Egorin served most recently as assistant secretary for legislation at the U.S. Department of Health and Human Services (HHS), where she was confirmed by the Senate in a bipartisan vote. In this role, she was the principal advisor to the HHS secretary and the liaison for members of Congress and their staff across the broad range of issues handled by the department. Egorin worked closely with Congress to pass legislation that improved support services for the most vulnerable Americans, strengthened the nation’s public health preparedness, and lowered health care costs.
