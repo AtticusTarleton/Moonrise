@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Curriculum Vitae Post"
+title: "Curriculum Vitae"
 date: 2026-08-07
 excerpt: "Melanie Anne Egorin's Curriculum Vitae."
 tags: [academia, image]
 comments: true
 ---
 
-<div>
-  <embed src="../assets/pdfs/Egorin_CV_June_2026.pdf" type="application/pdf" width="100%" height="600px" max-height="80vh">
+
+<div class="pdf-box">
+  <iframe src="../assets/pdfs/Egorin_CV_June_2026.pdf" width="100%" height="500px"></iframe>
 </div>
