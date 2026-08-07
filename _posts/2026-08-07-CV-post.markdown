@@ -7,6 +7,6 @@ tags: [academia, image]
 comments: true
 ---
 
-<iframe src="../assets/pdfs/Egorin_CV_June_2026.pdf" width="100%" height="600px">
-    <p>Your browser does not support PDFs. <a href="../assets/pdfs/Egorin_CV_June_2026.pdf">Download the PDF</a> instead.</p>
-</iframe>
+<div>
+  <embed src="../assets/pdfs/Egorin_CV_June_2026.pdf" type="application/pdf" width="100%" height="600px" max-height="80vh">
+</div>
