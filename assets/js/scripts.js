@@ -5,6 +5,13 @@ $(function() {
   });
 });
 // Need this to show animation when go back in browser
+// window.addEventListener('pagehide', (event) => {
+//   if (!event.persisted) {
+//     // The page is actively being destroyed, not cached.
+//     // Perform final clean-up here.
+//   }
+// });
+// window.onpagehide() = function() {};
 window.onunload = function() {};
 
 // Add lightbox class to all image links
@@ -50,7 +57,7 @@ $(document).ready(function() {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
