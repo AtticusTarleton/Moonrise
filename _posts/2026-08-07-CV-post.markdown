@@ -7,10 +7,6 @@ tags: [academia, image]
 comments: true
 ---
 
-![Your Browser Does Not Support PDFs](../assets/pdfs/Egorin_CV_June_2026.pdf)
-
-and I am trying an embedded version below
-
 <object data="../assets/pdfs/Egorin_CV_June_2026.pdf" type="application/pdf" width="100%" height="600px">
     <p>Your browser does not support PDFs. <a href="../assets/pdfs/Egorin_CV_June_2026.pdf">Download the PDF</a> instead.</p>
 </object>
