@@ -5,7 +5,7 @@ description: "I am a new professor at the University of Virginia. Click on About
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/headshot_square.png"
-background: "assets/img/moonrise-background.jpg"
+background: "assets/img/uva_grounds1.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
 locale: en_US
 url: https://AtticusTarleton.github.io/Moonrise
